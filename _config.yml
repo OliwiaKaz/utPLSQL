@@ -22,3 +22,5 @@ exclude: ["readme.md","dl-files"]
 
 #theme: jekyll-theme-cayman
 remote_theme: mmistakes/minimal-mistakes
+
+theme: jekyll-theme-time-machine
