@@ -19,3 +19,5 @@ github_username:  utplsql
 # Build settings
 markdown: kramdown
 exclude: ["readme.md","dl-files"]
+
+theme: jekyll-theme-cayman
